@@ -4,5 +4,5 @@
 
 #### Part 1: Database Schema Design
 #### Part 2: Insert Data
-#### Part 3: Create Indices
+#### Part 3: Create Indexes
 
